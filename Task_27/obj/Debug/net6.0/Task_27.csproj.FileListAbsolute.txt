@@ -1,0 +1,15 @@
+E:\Обучение\Программирование\C#\Homework_4\Task_27\bin\Debug\net6.0\Task_27.exe
+E:\Обучение\Программирование\C#\Homework_4\Task_27\bin\Debug\net6.0\Task_27.deps.json
+E:\Обучение\Программирование\C#\Homework_4\Task_27\bin\Debug\net6.0\Task_27.runtimeconfig.json
+E:\Обучение\Программирование\C#\Homework_4\Task_27\bin\Debug\net6.0\Task_27.dll
+E:\Обучение\Программирование\C#\Homework_4\Task_27\bin\Debug\net6.0\Task_27.pdb
+E:\Обучение\Программирование\C#\Homework_4\Task_27\obj\Debug\net6.0\Task_27.csproj.AssemblyReference.cache
+E:\Обучение\Программирование\C#\Homework_4\Task_27\obj\Debug\net6.0\Task_27.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\Программирование\C#\Homework_4\Task_27\obj\Debug\net6.0\Task_27.AssemblyInfoInputs.cache
+E:\Обучение\Программирование\C#\Homework_4\Task_27\obj\Debug\net6.0\Task_27.AssemblyInfo.cs
+E:\Обучение\Программирование\C#\Homework_4\Task_27\obj\Debug\net6.0\Task_27.csproj.CoreCompileInputs.cache
+E:\Обучение\Программирование\C#\Homework_4\Task_27\obj\Debug\net6.0\Task_27.dll
+E:\Обучение\Программирование\C#\Homework_4\Task_27\obj\Debug\net6.0\refint\Task_27.dll
+E:\Обучение\Программирование\C#\Homework_4\Task_27\obj\Debug\net6.0\Task_27.pdb
+E:\Обучение\Программирование\C#\Homework_4\Task_27\obj\Debug\net6.0\Task_27.genruntimeconfig.cache
+E:\Обучение\Программирование\C#\Homework_4\Task_27\obj\Debug\net6.0\ref\Task_27.dll
